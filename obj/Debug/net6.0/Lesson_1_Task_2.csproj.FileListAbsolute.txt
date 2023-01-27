@@ -1,0 +1,15 @@
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\bin\Debug\net6.0\Lesson_1_Task_2.exe
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\bin\Debug\net6.0\Lesson_1_Task_2.deps.json
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\bin\Debug\net6.0\Lesson_1_Task_2.runtimeconfig.json
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\bin\Debug\net6.0\Lesson_1_Task_2.dll
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\bin\Debug\net6.0\Lesson_1_Task_2.pdb
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\Lesson_1_Task_2.csproj.AssemblyReference.cache
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\Lesson_1_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\Lesson_1_Task_2.AssemblyInfoInputs.cache
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\Lesson_1_Task_2.AssemblyInfo.cs
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\Lesson_1_Task_2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\Lesson_1_Task_2.dll
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\refint\Lesson_1_Task_2.dll
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\Lesson_1_Task_2.pdb
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\Lesson_1_Task_2.genruntimeconfig.cache
+D:\GeekBrains\Обучение\2023.01.25 Знакомство с языками программирования\Examples\Lesson_1_Task_2\obj\Debug\net6.0\ref\Lesson_1_Task_2.dll
